@@ -1,5 +1,6 @@
 # Sorting_Algoritm_using_Java
 sorting Algorithm using java programming language.
+<br>
 Bubble Sort:-
 ======================
 * compare adjacent element and check if they are in correct order or not . if they are not in correct in order then swap them.
