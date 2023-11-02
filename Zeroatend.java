@@ -2,7 +2,7 @@
 // Note that you must do this inplace with out making a copy of the array.
 // input:- 0,5,0,3,42
 // output:- 5 3 42 0 0
-// we can solve this problem the Bubble Sort Algorithm though we have to place the 0's to the end of the array.we an do it using Bubble sort by swaping it adjacent elements.
+// we can solve this problem the Bubble Sort Algorithm though we have to place the 0's to the end of the array.we can do it using Bubble sort by swaping it adjacent elements.
 // code
 class ZeroAtEnd{
     static void funZeroAtEnd(int[] a){
